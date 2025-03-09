@@ -1,0 +1,10 @@
+.category {
+    margin-left: 24px;
+    border: 1px solid black;
+    height: 50%;
+}
+.imageDetail {
+    border: 1px solid black;
+    height: 100%;
+    width: 100%;
+}
